@@ -7,6 +7,7 @@ public class Looking : MonoBehaviour
     // Start is called before the first frame update
     float Sens = 350f, xRotation = 5f;
     public Transform player;
+    public Transform target;
 
     void Start()
     {
@@ -26,6 +27,7 @@ public class Looking : MonoBehaviour
         player.Rotate(Vector3.up * mousex);
         transform.localRotation = Quaternion.Euler(xRotation,0f,0f);
 
+        //transform.LookAt(target);
 
     }
 }
