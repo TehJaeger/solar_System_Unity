@@ -1,33 +1,33 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/rique/Desktop/solar_System_Unity/Solar_System/Packages/manifest.json
+    m_FilePath: C:/Users/rique/OneDrive/Ambiente de Trabalho/solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29/Solar_System/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637877947561548859
-    m_Hash: 3101148869
+      ticks: 637887281772159114
+    m_Hash: 1585432867
   m_LockFileStatus:
-    m_FilePath: C:/Users/rique/Desktop/solar_System_Unity/Solar_System/Packages/packages-lock.json
+    m_FilePath: C:/Users/rique/OneDrive/Ambiente de Trabalho/solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29/Solar_System/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637877947561638413
-    m_Hash: 3856057180
+      ticks: 637887282481540078
+    m_Hash: 2837206838
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: C:/Users/rique/Desktop/solar_System_Unity/Solar_System/Packages
-m_EditorVersion: 2021.3.0f1 (6eacc8284459)
+m_ProjectPath: C:/Users/rique/OneDrive/Ambiente de Trabalho/solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29/Solar_System/Packages
+m_EditorVersion: 2021.3.2f1 (d6360bedb9a0)
 m_ResolvedPackages:
-- packageId: com.unity.collab-proxy@1.15.15
+- packageId: com.unity.collab-proxy@1.15.16
   testable: 0
   isDirectDependency: 1
-  version: 1.15.15
+  version: 1.15.16
   source: 1
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.collab-proxy@1.15.15
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.collab-proxy@1.15.16
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -45,83 +45,21 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-    - 1.2.3-preview
-    - 1.2.4-preview
-    - 1.2.6
-    - 1.2.7
-    - 1.2.9
-    - 1.2.11
-    - 1.2.15
-    - 1.2.16
-    - 1.2.17-preview.3
-    - 1.3.2
-    - 1.3.3
-    - 1.3.4
-    - 1.3.5
-    - 1.3.6
-    - 1.3.7
-    - 1.3.8
-    - 1.3.9
-    - 1.4.9
-    - 1.5.7
-    - 1.6.0
-    - 1.7.1
-    - 1.8.0
-    - 1.9.0
-    - 1.10.2
-    - 1.11.2
-    - 1.12.5
-    - 1.13.5
-    - 1.14.1
-    - 1.14.4
-    - 1.14.7
-    - 1.14.9
-    - 1.14.12
-    - 1.14.13
-    - 1.14.15
-    - 1.14.16
-    - 1.14.17
-    - 1.15.1
-    - 1.15.4
-    - 1.15.7
-    - 1.15.9
-    - 1.15.12
-    - 1.15.13
-    - 1.15.15
     - 1.15.16
-    - 1.15.17
-    - 2.0.0-preview.6
-    - 2.0.0-preview.8
-    - 2.0.0-preview.15
-    - 2.0.0-preview.17
-    - 2.0.0-preview.20
-    - 2.0.0-preview.21
-    - 2.0.0-preview.22
-    - 2.1.0-preview.3
-    - 2.1.0-preview.5
-    - 2.1.0-preview.6
     compatible:
-    - 1.15.15
     - 1.15.16
-    - 1.15.17
-    - 2.0.0-preview.6
-    - 2.0.0-preview.8
-    - 2.0.0-preview.15
-    - 2.0.0-preview.17
-    - 2.0.0-preview.20
-    - 2.0.0-preview.21
-    - 2.0.0-preview.22
-    - 2.1.0-preview.3
-    - 2.1.0-preview.5
-    - 2.1.0-preview.6
-    verified: 1.15.17
+    verified: 1.15.16
   dependencies:
   - name: com.unity.services.core
     version: 1.0.1
   resolvedDependencies:
   - name: com.unity.services.core
-    version: 1.0.1
+    version: 1.3.1
   - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.0.2
+  - name: com.unity.modules.androidjni
     version: 1.0.0
   keywords:
   - backup
@@ -146,23 +84,23 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637828649420000000
+  datePublishedTicks: 0
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
-    revision: abf10445fb869983dbe4f8f87ec63c58f4cd36e0
+    revision: 714a2838c2d55add3d0accf539488f96caa757b2
     path: 
   unityLifecycle:
-    version: 1.15.15
+    version: 1.15.16
     nextVersion: 
 - packageId: com.unity.ide.rider@3.0.13
   testable: 0
   isDirectDependency: 1
   version: 3.0.13
   source: 1
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.ide.rider@3.0.13
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.ide.rider@3.0.13
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -179,40 +117,10 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-    - 1.0.2
-    - 1.0.6
-    - 1.0.8
-    - 1.1.0
-    - 1.1.1
-    - 1.1.2-preview
-    - 1.1.2-preview.2
-    - 1.1.3-preview.1
-    - 1.1.4-preview
-    - 1.1.4
-    - 1.2.0-preview
-    - 1.2.1
-    - 2.0.0-preview
-    - 2.0.1
-    - 2.0.2
-    - 2.0.3
-    - 2.0.5
-    - 2.0.7
-    - 3.0.1
-    - 3.0.2
-    - 3.0.3
-    - 3.0.4
-    - 3.0.5
-    - 3.0.6
-    - 3.0.7
-    - 3.0.9
-    - 3.0.10
-    - 3.0.12
     - 3.0.13
-    - 3.0.14
     compatible:
     - 3.0.13
-    - 3.0.14
-    verified: 3.0.14
+    verified: 3.0.13
   dependencies:
   - name: com.unity.ext.nunit
     version: 1.0.6
@@ -229,7 +137,7 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637837345400000000
+  datePublishedTicks: 0
   documentationUrl: 
   hasRepository: 1
   repository:
@@ -245,7 +153,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.14
   source: 1
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.ide.visualstudio@2.0.14
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.ide.visualstudio@2.0.14
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -262,28 +170,10 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-    - 1.0.2
-    - 1.0.3
-    - 1.0.4
-    - 1.0.9
-    - 1.0.10
-    - 1.0.11
-    - 2.0.0
-    - 2.0.1
-    - 2.0.2
-    - 2.0.3
-    - 2.0.5
-    - 2.0.7
-    - 2.0.8
-    - 2.0.9
-    - 2.0.11
-    - 2.0.12
     - 2.0.14
-    - 2.0.15
     compatible:
     - 2.0.14
-    - 2.0.15
-    verified: 2.0.15
+    verified: 2.0.14
   dependencies:
   - name: com.unity.test-framework
     version: 1.1.9
@@ -306,13 +196,13 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637782923640000000
+  datePublishedTicks: 0
   documentationUrl: 
-  hasRepository: 0
+  hasRepository: 1
   repository:
-    type: 
-    url: 
-    revision: 
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.visualstudio.git
+    revision: f1e8af5df9e2507088a8622d173c9a7d5a03a882
     path: 
   unityLifecycle:
     version: 2.0.14
@@ -322,7 +212,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.2.5
   source: 1
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.ide.vscode@1.2.5
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.ide.vscode@1.2.5
   assetPath: Packages/com.unity.ide.vscode
   name: com.unity.ide.vscode
   displayName: Visual Studio Code Editor
@@ -339,18 +229,6 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-    - 1.0.2
-    - 1.0.3
-    - 1.0.7
-    - 1.1.0
-    - 1.1.2
-    - 1.1.3
-    - 1.1.4
-    - 1.2.0
-    - 1.2.1
-    - 1.2.2
-    - 1.2.3
-    - 1.2.4
     - 1.2.5
     compatible:
     - 1.2.5
@@ -367,7 +245,7 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637800255360000000
+  datePublishedTicks: 0
   documentationUrl: 
   hasRepository: 1
   repository:
@@ -383,7 +261,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 12.1.6
   source: 2
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.render-pipelines.universal@12.1.6
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.render-pipelines.universal@12.1.6
   assetPath: Packages/com.unity.render-pipelines.universal
   name: com.unity.render-pipelines.universal
   displayName: Universal RP
@@ -401,49 +279,6 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-    - 7.0.0
-    - 7.0.1
-    - 7.1.1
-    - 7.1.2
-    - 7.1.5
-    - 7.1.6
-    - 7.1.7
-    - 7.1.8
-    - 7.2.0
-    - 7.2.1
-    - 7.3.1
-    - 7.4.1
-    - 7.4.2
-    - 7.4.3
-    - 7.5.1
-    - 7.5.2
-    - 7.5.3
-    - 7.6.0
-    - 7.7.0
-    - 7.7.1
-    - 8.0.1
-    - 8.1.0
-    - 8.2.0
-    - 8.3.1
-    - 9.0.0-preview.14
-    - 9.0.0-preview.35
-    - 9.0.0-preview.55
-    - 9.0.0-preview.72
-    - 10.0.0-preview.26
-    - 10.1.0
-    - 10.2.0
-    - 10.2.1
-    - 10.2.2
-    - 10.3.1
-    - 10.3.2
-    - 10.4.0
-    - 10.5.0
-    - 10.5.1
-    - 10.6.0
-    - 10.7.0
-    - 10.8.0
-    - 10.8.1
-    - 10.9.0
     - 12.1.6
     compatible:
     - 12.1.6
@@ -459,7 +294,7 @@ m_ResolvedPackages:
     version: 12.1.6
   resolvedDependencies:
   - name: com.unity.mathematics
-    version: 1.2.5
+    version: 1.2.6
   - name: com.unity.burst
     version: 1.6.5
   - name: com.unity.render-pipelines.core
@@ -510,7 +345,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.1.31
   source: 1
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.test-framework@1.1.31
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.test-framework@1.1.31
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -525,47 +360,9 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-    - 0.0.4-preview
-    - 0.0.29-preview
-    - 1.0.0
-    - 1.0.7
-    - 1.0.9
-    - 1.0.11
-    - 1.0.12
-    - 1.0.13
-    - 1.0.14
-    - 1.0.16
-    - 1.0.17
-    - 1.0.18
-    - 1.1.0
-    - 1.1.1
-    - 1.1.2
-    - 1.1.3
-    - 1.1.5
-    - 1.1.8
-    - 1.1.9
-    - 1.1.11
-    - 1.1.13
-    - 1.1.14
-    - 1.1.16
-    - 1.1.18
-    - 1.1.19
-    - 1.1.20
-    - 1.1.22
-    - 1.1.24
-    - 1.1.26
-    - 1.1.27
-    - 1.1.29
-    - 1.1.30
     - 1.1.31
-    - 2.0.1-exp.1
-    - 2.0.1-pre.12
-    - 2.0.1-pre.18
     compatible:
     - 1.1.31
-    - 2.0.1-exp.1
-    - 2.0.1-pre.12
-    - 2.0.1-pre.18
     verified: 1.1.31
   dependencies:
   - name: com.unity.ext.nunit
@@ -593,7 +390,7 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637804266210000000
+  datePublishedTicks: 0
   documentationUrl: 
   hasRepository: 1
   repository:
@@ -609,7 +406,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.6
   source: 1
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.textmeshpro@3.0.6
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.textmeshpro@3.0.6
   assetPath: Packages/com.unity.textmeshpro
   name: com.unity.textmeshpro
   displayName: TextMeshPro
@@ -643,95 +440,9 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-    - 0.1.2
-    - 1.0.21
-    - 1.0.23
-    - 1.0.25
-    - 1.0.26
-    - 1.1.0
-    - 1.2.0
-    - 1.2.1
-    - 1.2.2
-    - 1.2.3
-    - 1.2.4
-    - 1.3.0-preview
-    - 1.3.0
-    - 1.4.0-preview.1b
-    - 1.4.0-preview.2a
-    - 1.4.0-preview.3a
-    - 1.4.0
-    - 1.4.1-preview.1
-    - 1.4.1
-    - 1.5.0-preview.1
-    - 1.5.0-preview.2
-    - 1.5.0-preview.3
-    - 1.5.0-preview.4
-    - 1.5.0-preview.5
-    - 1.5.0-preview.6
-    - 1.5.0-preview.7
-    - 1.5.0-preview.8
-    - 1.5.0-preview.10
-    - 1.5.0-preview.11
-    - 1.5.0-preview.12
-    - 1.5.0-preview.13
-    - 1.5.0-preview.14
-    - 1.5.0
-    - 1.5.1
-    - 1.5.3
-    - 1.5.4
-    - 1.5.5
-    - 1.5.6
-    - 1.6.0-preview.1
-    - 2.0.0
-    - 2.0.1-preview.1
-    - 2.0.1
-    - 2.1.0-preview.1
-    - 2.1.0-preview.2
-    - 2.1.0-preview.3
-    - 2.1.0-preview.4
-    - 2.1.0-preview.5
-    - 2.1.0-preview.7
-    - 2.1.0-preview.8
-    - 2.1.0-preview.10
-    - 2.1.0-preview.11
-    - 2.1.0-preview.12
-    - 2.1.0-preview.13
-    - 2.1.0-preview.14
-    - 2.1.0
-    - 2.1.1
-    - 2.1.3
-    - 2.1.4
-    - 2.1.5
-    - 2.1.6
-    - 2.2.0-preview.1
-    - 2.2.0-preview.2
-    - 2.2.0-preview.3
-    - 3.0.0-preview.1
-    - 3.0.0-preview.3
-    - 3.0.0-preview.4
-    - 3.0.0-preview.5
-    - 3.0.0-preview.7
-    - 3.0.0-preview.8
-    - 3.0.0-preview.10
-    - 3.0.0-preview.11
-    - 3.0.0-preview.12
-    - 3.0.0-preview.13
-    - 3.0.0-preview.14
-    - 3.0.0
-    - 3.0.1
-    - 3.0.3
-    - 3.0.4
-    - 3.0.5
     - 3.0.6
-    - 3.2.0-pre.1
-    - 3.2.0-pre.2
-    - 3.2.0-pre.3
-    - 4.0.0-pre.1
     compatible:
     - 3.0.6
-    - 3.2.0-pre.1
-    - 3.2.0-pre.2
-    - 3.2.0-pre.3
     verified: 3.0.6
   dependencies:
   - name: com.unity.ugui
@@ -758,7 +469,7 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637547111200000000
+  datePublishedTicks: 0
   documentationUrl: 
   hasRepository: 1
   repository:
@@ -774,7 +485,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.6.4
   source: 1
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.timeline@1.6.4
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.timeline@1.6.4
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -790,84 +501,9 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-    - 1.2.0
-    - 1.2.1
-    - 1.2.2
-    - 1.2.3
-    - 1.2.4
-    - 1.2.5
-    - 1.2.6
-    - 1.2.7
-    - 1.2.9
-    - 1.2.10
-    - 1.2.11
-    - 1.2.12
-    - 1.2.13
-    - 1.2.14
-    - 1.2.15
-    - 1.2.16
-    - 1.2.17
-    - 1.2.18
-    - 1.3.0-preview.2
-    - 1.3.0-preview.3
-    - 1.3.0-preview.5
-    - 1.3.0-preview.6
-    - 1.3.0-preview.7
-    - 1.3.0
-    - 1.3.1
-    - 1.3.2
-    - 1.3.3
-    - 1.3.4
-    - 1.3.5
-    - 1.3.6
-    - 1.3.7
-    - 1.4.0-preview.1
-    - 1.4.0-preview.2
-    - 1.4.0-preview.3
-    - 1.4.0-preview.5
-    - 1.4.0-preview.6
-    - 1.4.0-preview.7
-    - 1.4.0
-    - 1.4.1
-    - 1.4.2
-    - 1.4.3
-    - 1.4.4
-    - 1.4.5
-    - 1.4.6
-    - 1.4.7
-    - 1.4.8
-    - 1.5.0-pre.2
-    - 1.5.0-preview.1
-    - 1.5.0-preview.2
-    - 1.5.0-preview.3
-    - 1.5.0-preview.4
-    - 1.5.0-preview.5
-    - 1.5.1-pre.1
-    - 1.5.1-pre.2
-    - 1.5.1-pre.3
-    - 1.5.2
-    - 1.5.4
-    - 1.5.5
-    - 1.5.6
-    - 1.5.7
-    - 1.6.0-pre.1
-    - 1.6.0-pre.3
-    - 1.6.0-pre.4
-    - 1.6.0-pre.5
-    - 1.6.1
-    - 1.6.2
-    - 1.6.3
     - 1.6.4
-    - 1.7.0-pre.1
-    - 1.7.0-pre.2
-    - 1.7.0
-    - 1.7.1
     compatible:
     - 1.6.4
-    - 1.7.0-pre.1
-    - 1.7.0-pre.2
-    - 1.7.0
-    - 1.7.1
     verified: 1.6.4
   dependencies:
   - name: com.unity.modules.director
@@ -902,7 +538,7 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637789039180000000
+  datePublishedTicks: 0
   documentationUrl: 
   hasRepository: 1
   repository:
@@ -918,7 +554,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.ugui@1.0.0
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.ugui@1.0.0
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -975,500 +611,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-- packageId: com.unity.xr.arcore@4.2.3
-  testable: 0
-  isDirectDependency: 1
-  version: 4.2.3
-  source: 1
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.xr.arcore@4.2.3
-  assetPath: Packages/com.unity.xr.arcore
-  name: com.unity.xr.arcore
-  displayName: ARCore XR Plugin
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: 
-  description: 'Provides native Google ARCore integration for use with Unity''s multi-platform
-    XR API.
-
-    Supports the following features:
-
-    -Efficient Background Rendering
-
-    -Horizontal
-    Planes
-
-    -Depth Data
-
-    -Anchors
-
-    -Hit Testing
-
-    -Occlusion'
-  status: 4
-  errors: []
-  versions:
-    all:
-    - 1.0.0-preview.24
-    - 2.0.2
-    - 2.1.0-preview.4
-    - 2.1.0-preview.5
-    - 2.1.0
-    - 2.1.1
-    - 2.1.2
-    - 2.1.4
-    - 2.1.8
-    - 2.1.11
-    - 2.1.12
-    - 2.1.14
-    - 2.1.16
-    - 2.1.18
-    - 2.1.19
-    - 2.2.0-preview.1
-    - 2.2.0-preview.2
-    - 2.2.0-preview.6
-    - 3.0.0-preview.1
-    - 3.0.0-preview.2
-    - 3.0.0-preview.3
-    - 3.0.0-preview.4
-    - 3.0.1
-    - 3.0.3
-    - 3.0.4
-    - 3.1.0-preview.1
-    - 3.1.0-preview.2
-    - 3.1.0-preview.4
-    - 3.1.0-preview.6
-    - 3.1.0-preview.7
-    - 3.1.0-preview.8
-    - 3.1.3
-    - 3.1.4
-    - 3.1.5
-    - 3.1.7
-    - 3.1.8
-    - 3.1.10
-    - 4.0.0-preview.1
-    - 4.0.0-preview.3
-    - 4.0.3
-    - 4.0.4
-    - 4.0.8
-    - 4.0.9
-    - 4.0.10
-    - 4.0.12
-    - 4.1.0-preview.2
-    - 4.1.0-preview.3
-    - 4.1.0-preview.5
-    - 4.1.0-preview.6
-    - 4.1.0-preview.7
-    - 4.1.0-preview.9
-    - 4.1.0-preview.10
-    - 4.1.0-preview.11
-    - 4.1.0-preview.12
-    - 4.1.0-preview.13
-    - 4.1.1
-    - 4.1.3
-    - 4.1.5
-    - 4.1.7
-    - 4.1.9
-    - 4.1.10
-    - 4.2.0-pre.2
-    - 4.2.0-pre.3
-    - 4.2.0-pre.4
-    - 4.2.0-pre.5
-    - 4.2.0-pre.7
-    - 4.2.0-pre.8
-    - 4.2.0-pre.9
-    - 4.2.0-pre.10
-    - 4.2.0-pre.12
-    - 4.2.0
-    - 4.2.1
-    - 4.2.2
-    - 4.2.3
-    - 5.0.0-pre.5
-    - 5.0.0-pre.6
-    - 5.0.0-pre.7
-    - 5.0.0-pre.8
-    - 5.0.0-pre.9
-    compatible:
-    - 4.2.2
-    - 4.2.3
-    - 5.0.0-pre.5
-    - 5.0.0-pre.6
-    - 5.0.0-pre.7
-    - 5.0.0-pre.8
-    - 5.0.0-pre.9
-    verified: 4.2.3
-  dependencies:
-  - name: com.unity.xr.arsubsystems
-    version: 4.2.3
-  - name: com.unity.xr.management
-    version: 4.0.1
-  - name: com.unity.modules.androidjni
-    version: 1.0.0
-  - name: com.unity.modules.unitywebrequest
-    version: 1.0.0
-  resolvedDependencies:
-  - name: com.unity.xr.arsubsystems
-    version: 4.2.3
-  - name: com.unity.subsystemregistration
-    version: 1.1.0
-  - name: com.unity.modules.subsystems
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.xr.management
-    version: 4.2.1
-  - name: com.unity.modules.vr
-    version: 1.0.0
-  - name: com.unity.modules.physics
-    version: 1.0.0
-  - name: com.unity.modules.xr
-    version: 1.0.0
-  - name: com.unity.xr.legacyinputhelpers
-    version: 2.1.9
-  - name: com.unity.modules.androidjni
-    version: 1.0.0
-  - name: com.unity.modules.unitywebrequest
-    version: 1.0.0
-  keywords:
-  - arcore
-  - ar
-  - augmented
-  - xr
-  - reality
-  - core
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-  hideInEditor: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 637871117150000000
-  documentationUrl: 
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/arfoundation.git
-    revision: 497981bbdfaf531fe240edcfa8f6edfd9aa1567e
-    path: 
-  unityLifecycle:
-    version: 4.2.2
-    nextVersion: 
-- packageId: com.unity.xr.arfoundation@4.2.3
-  testable: 0
-  isDirectDependency: 1
-  version: 4.2.3
-  source: 1
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.xr.arfoundation@4.2.3
-  assetPath: Packages/com.unity.xr.arfoundation
-  name: com.unity.xr.arfoundation
-  displayName: AR Foundation
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: 
-  description: "A collection of MonoBehaviours and C# utilities for working with
-    AR Subsystems. \n\nIncludes: \n\u25AA GameObject menu items for creating an AR
-    setup \n\u25AA MonoBehaviours that control AR session lifecycle and create GameObjects
-    from detected, real-world trackable features \n\u25AA Scale handling \n\u25AA
-    Face tracking\n\nSamples available at https://github.com/Unity-Technologies/arfoundation-samples"
-  status: 4
-  errors: []
-  versions:
-    all:
-    - 1.0.0-preview.12
-    - 1.0.0-preview.13
-    - 1.0.0-preview.14
-    - 1.0.0-preview.17
-    - 1.0.0-preview.18
-    - 1.0.0-preview.19
-    - 1.0.0-preview.20
-    - 1.0.0-preview.22
-    - 1.1.0-preview.6
-    - 1.5.0-preview.2
-    - 1.5.0-preview.5
-    - 1.5.0-preview.6
-    - 1.5.0-preview.7
-    - 2.0.2
-    - 2.1.0-preview.2
-    - 2.1.0-preview.3
-    - 2.1.1
-    - 2.1.3
-    - 2.1.4
-    - 2.1.8
-    - 2.1.10
-    - 2.1.14
-    - 2.1.16
-    - 2.1.18
-    - 2.1.19
-    - 2.2.0-preview.2
-    - 2.2.0-preview.3
-    - 2.2.0-preview.6
-    - 3.0.0-preview.1
-    - 3.0.0-preview.2
-    - 3.0.0-preview.3
-    - 3.0.0-preview.4
-    - 3.0.0-preview.6
-    - 3.0.1
-    - 3.1.0-preview.1
-    - 3.1.0-preview.3
-    - 3.1.0-preview.4
-    - 3.1.0-preview.6
-    - 3.1.0-preview.7
-    - 3.1.0-preview.8
-    - 3.1.3
-    - 3.1.5
-    - 3.1.6
-    - 3.1.10
-    - 4.0.0-preview.1
-    - 4.0.0-preview.3
-    - 4.0.2
-    - 4.0.8
-    - 4.0.9
-    - 4.0.10
-    - 4.0.12
-    - 4.1.0-preview.1
-    - 4.1.0-preview.2
-    - 4.1.0-preview.3
-    - 4.1.0-preview.5
-    - 4.1.0-preview.6
-    - 4.1.0-preview.7
-    - 4.1.0-preview.9
-    - 4.1.0-preview.10
-    - 4.1.0-preview.11
-    - 4.1.0-preview.12
-    - 4.1.0-preview.13
-    - 4.1.1
-    - 4.1.3
-    - 4.1.5
-    - 4.1.7
-    - 4.1.9
-    - 4.1.10
-    - 4.2.0-pre.2
-    - 4.2.0-pre.3
-    - 4.2.0-pre.4
-    - 4.2.0-pre.5
-    - 4.2.0-pre.7
-    - 4.2.0-pre.8
-    - 4.2.0-pre.9
-    - 4.2.0-pre.10
-    - 4.2.0-pre.12
-    - 4.2.0
-    - 4.2.1
-    - 4.2.2
-    - 4.2.3
-    - 5.0.0-pre.5
-    - 5.0.0-pre.6
-    - 5.0.0-pre.7
-    - 5.0.0-pre.8
-    - 5.0.0-pre.9
-    compatible:
-    - 4.2.2
-    - 4.2.3
-    - 5.0.0-pre.5
-    - 5.0.0-pre.6
-    - 5.0.0-pre.7
-    - 5.0.0-pre.8
-    - 5.0.0-pre.9
-    verified: 4.2.3
-  dependencies:
-  - name: com.unity.xr.arsubsystems
-    version: 4.2.3
-  - name: com.unity.xr.management
-    version: 4.0.1
-  - name: com.unity.modules.particlesystem
-    version: 1.0.0
-  resolvedDependencies:
-  - name: com.unity.xr.arsubsystems
-    version: 4.2.3
-  - name: com.unity.subsystemregistration
-    version: 1.1.0
-  - name: com.unity.modules.subsystems
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.xr.management
-    version: 4.2.1
-  - name: com.unity.modules.vr
-    version: 1.0.0
-  - name: com.unity.modules.physics
-    version: 1.0.0
-  - name: com.unity.modules.xr
-    version: 1.0.0
-  - name: com.unity.xr.legacyinputhelpers
-    version: 2.1.9
-  - name: com.unity.modules.particlesystem
-    version: 1.0.0
-  keywords:
-  - xr
-  - ar
-  - augmented
-  - reality
-  - utility
-  - utilities
-  - foundation
-  - core
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-  hideInEditor: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 637871117350000000
-  documentationUrl: 
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/arfoundation.git
-    revision: 497981bbdfaf531fe240edcfa8f6edfd9aa1567e
-    path: 
-  unityLifecycle:
-    version: 4.2.2
-    nextVersion: 
-- packageId: com.unity.xr.management@4.2.1
-  testable: 0
-  isDirectDependency: 1
-  version: 4.2.1
-  source: 1
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.xr.management@4.2.1
-  assetPath: Packages/com.unity.xr.management
-  name: com.unity.xr.management
-  displayName: XR Plugin Management
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: 
-  description: Package that provides simple management of XR plug-ins. Manages and
-    offers help with loading, initialization, settings, and build support for XR
-    plug-ins.
-  status: 4
-  errors: []
-  versions:
-    all:
-    - 0.1.0-preview.8
-    - 0.1.0-preview.12
-    - 1.0.0-preview.2
-    - 2.0.0-preview.3
-    - 2.0.0-preview.6
-    - 2.0.0-preview.9
-    - 2.0.0-preview.10
-    - 2.0.0-preview.13
-    - 2.0.0-preview.21
-    - 2.0.0-preview.22
-    - 2.0.0-preview.24
-    - 2.0.0-preview.25
-    - 2.0.0-preview.26
-    - 3.0.1
-    - 3.0.2-preview.1
-    - 3.0.2-preview.2
-    - 3.0.3
-    - 3.0.4-preview.1
-    - 3.0.4-preview.3
-    - 3.0.4
-    - 3.0.5-preview.1
-    - 3.0.5
-    - 3.0.6-preview.2
-    - 3.0.6
-    - 3.1.0-preview.2
-    - 3.2.4
-    - 3.2.6
-    - 3.2.7
-    - 3.2.9
-    - 3.2.10
-    - 3.2.11-preview.1
-    - 3.2.12
-    - 3.2.13
-    - 3.2.15
-    - 3.2.16
-    - 3.2.17
-    - 4.0.0-exp.2
-    - 4.0.0-pre.2
-    - 4.0.0-pre.3
-    - 4.0.1
-    - 4.0.3
-    - 4.0.5
-    - 4.0.6
-    - 4.0.7
-    - 4.1.0-pre.1
-    - 4.1.0-pre.2
-    - 4.1.0
-    - 4.2.0
-    - 4.2.1
-    compatible:
-    - 4.2.0
-    - 4.2.1
-    verified: 4.2.1
-  dependencies:
-  - name: com.unity.modules.subsystems
-    version: 1.0.0
-  - name: com.unity.modules.vr
-    version: 1.0.0
-  - name: com.unity.modules.xr
-    version: 1.0.0
-  - name: com.unity.xr.legacyinputhelpers
-    version: 2.1.7
-  - name: com.unity.subsystemregistration
-    version: 1.0.6
-  resolvedDependencies:
-  - name: com.unity.modules.subsystems
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.modules.vr
-    version: 1.0.0
-  - name: com.unity.modules.physics
-    version: 1.0.0
-  - name: com.unity.modules.xr
-    version: 1.0.0
-  - name: com.unity.xr.legacyinputhelpers
-    version: 2.1.9
-  - name: com.unity.subsystemregistration
-    version: 1.1.0
-  keywords:
-  - xr
-  - sdk
-  - ar
-  - vr
-  - management
-  - build
-  - plugin
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-  hideInEditor: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 637769778170000000
-  documentationUrl: 
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/xr.sdk.management.git
-    revision: 9c99228887ff65cc0729434b3b9371d22b707cb9
-    path: 
-  unityLifecycle:
-    version: 4.2.0
-    nextVersion: 
 - packageId: com.unity.modules.ai@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.modules.ai@1.0.0
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.modules.ai@1.0.0
   assetPath: Packages/com.unity.modules.ai
   name: com.unity.modules.ai
   displayName: AI
@@ -1516,7 +664,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.modules.androidjni@1.0.0
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.modules.androidjni@1.0.0
   assetPath: Packages/com.unity.modules.androidjni
   name: com.unity.modules.androidjni
   displayName: Android JNI
@@ -1563,7 +711,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.modules.animation@1.0.0
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.modules.animation@1.0.0
   assetPath: Packages/com.unity.modules.animation
   name: com.unity.modules.animation
   displayName: Animation
@@ -1611,7 +759,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
   assetPath: Packages/com.unity.modules.assetbundle
   name: com.unity.modules.assetbundle
   displayName: Asset Bundle
@@ -1659,7 +807,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.modules.audio@1.0.0
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.modules.audio@1.0.0
   assetPath: Packages/com.unity.modules.audio
   name: com.unity.modules.audio
   displayName: Audio
@@ -1707,7 +855,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.modules.cloth@1.0.0
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.modules.cloth@1.0.0
   assetPath: Packages/com.unity.modules.cloth
   name: com.unity.modules.cloth
   displayName: Cloth
@@ -1759,7 +907,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.modules.director@1.0.0
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.modules.director@1.0.0
   assetPath: Packages/com.unity.modules.director
   name: com.unity.modules.director
   displayName: Director
@@ -1815,7 +963,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
   assetPath: Packages/com.unity.modules.imageconversion
   name: com.unity.modules.imageconversion
   displayName: Image Conversion
@@ -1864,7 +1012,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.modules.imgui@1.0.0
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.modules.imgui@1.0.0
   assetPath: Packages/com.unity.modules.imgui
   name: com.unity.modules.imgui
   displayName: IMGUI
@@ -1912,7 +1060,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
   assetPath: Packages/com.unity.modules.jsonserialize
   name: com.unity.modules.jsonserialize
   displayName: JSONSerialize
@@ -1960,7 +1108,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
   assetPath: Packages/com.unity.modules.particlesystem
   name: com.unity.modules.particlesystem
   displayName: Particle System
@@ -2008,7 +1156,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.modules.physics@1.0.0
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.modules.physics@1.0.0
   assetPath: Packages/com.unity.modules.physics
   name: com.unity.modules.physics
   displayName: Physics
@@ -2056,7 +1204,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.modules.physics2d@1.0.0
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.modules.physics2d@1.0.0
   assetPath: Packages/com.unity.modules.physics2d
   name: com.unity.modules.physics2d
   displayName: Physics 2D
@@ -2104,7 +1252,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.modules.screencapture@1.0.0
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.modules.screencapture@1.0.0
   assetPath: Packages/com.unity.modules.screencapture
   name: com.unity.modules.screencapture
   displayName: Screen Capture
@@ -2156,7 +1304,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.modules.terrain@1.0.0
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.modules.terrain@1.0.0
   assetPath: Packages/com.unity.modules.terrain
   name: com.unity.modules.terrain
   displayName: Terrain
@@ -2204,7 +1352,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
   assetPath: Packages/com.unity.modules.terrainphysics
   name: com.unity.modules.terrainphysics
   displayName: Terrain Physics
@@ -2260,7 +1408,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.modules.tilemap@1.0.0
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.modules.tilemap@1.0.0
   assetPath: Packages/com.unity.modules.tilemap
   name: com.unity.modules.tilemap
   displayName: Tilemap
@@ -2311,7 +1459,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.modules.ui@1.0.0
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.modules.ui@1.0.0
   assetPath: Packages/com.unity.modules.ui
   name: com.unity.modules.ui
   displayName: UI
@@ -2359,7 +1507,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.modules.uielements@1.0.0
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.modules.uielements@1.0.0
   assetPath: Packages/com.unity.modules.uielements
   name: com.unity.modules.uielements
   displayName: UIElements
@@ -2423,7 +1571,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.modules.umbra@1.0.0
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.modules.umbra@1.0.0
   assetPath: Packages/com.unity.modules.umbra
   name: com.unity.modules.umbra
   displayName: Umbra
@@ -2471,7 +1619,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
   assetPath: Packages/com.unity.modules.unityanalytics
   name: com.unity.modules.unityanalytics
   displayName: Unity Analytics
@@ -2527,7 +1675,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequest
   name: com.unity.modules.unitywebrequest
   displayName: Unity Web Request
@@ -2575,7 +1723,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
   name: com.unity.modules.unitywebrequestassetbundle
   displayName: Unity Web Request Asset Bundle
@@ -2631,7 +1779,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestaudio
   name: com.unity.modules.unitywebrequestaudio
   displayName: Unity Web Request Audio
@@ -2687,7 +1835,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequesttexture
   name: com.unity.modules.unitywebrequesttexture
   displayName: Unity Web Request Texture
@@ -2743,7 +1891,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestwww
   name: com.unity.modules.unitywebrequestwww
   displayName: Unity Web Request WWW
@@ -2815,7 +1963,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.modules.vehicles@1.0.0
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.modules.vehicles@1.0.0
   assetPath: Packages/com.unity.modules.vehicles
   name: com.unity.modules.vehicles
   displayName: Vehicles
@@ -2867,7 +2015,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.modules.video@1.0.0
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.modules.video@1.0.0
   assetPath: Packages/com.unity.modules.video
   name: com.unity.modules.video
   displayName: Video
@@ -2927,7 +2075,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.modules.vr@1.0.0
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.modules.vr@1.0.0
   assetPath: Packages/com.unity.modules.vr
   name: com.unity.modules.vr
   displayName: VR
@@ -2989,7 +2137,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.modules.wind@1.0.0
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.modules.wind@1.0.0
   assetPath: Packages/com.unity.modules.wind
   name: com.unity.modules.wind
   displayName: Wind
@@ -3037,7 +2185,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.modules.xr@1.0.0
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.modules.xr@1.0.0
   assetPath: Packages/com.unity.modules.xr
   name: com.unity.modules.xr
   displayName: XR
@@ -3097,7 +2245,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.modules.subsystems@1.0.0
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.modules.subsystems@1.0.0
   assetPath: Packages/com.unity.modules.subsystems
   name: com.unity.modules.subsystems
   displayName: Subsystems
@@ -3149,7 +2297,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.modules.uielementsnative@1.0.0
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.modules.uielementsnative@1.0.0
   assetPath: Packages/com.unity.modules.uielementsnative
   name: com.unity.modules.uielementsnative
   displayName: UIElements Native
@@ -3203,317 +2351,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 
     nextVersion: 
-- packageId: com.unity.xr.legacyinputhelpers@2.1.9
-  testable: 0
-  isDirectDependency: 0
-  version: 2.1.9
-  source: 1
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.9
-  assetPath: Packages/com.unity.xr.legacyinputhelpers
-  name: com.unity.xr.legacyinputhelpers
-  displayName: XR Legacy Input Helpers
-  author:
-    name: 
-    email: 
-    url: 
-  category: XR
-  type: 
-  description: This package includes the tracked pose driver for the legacy input
-    system, the XR Bindings Seeding Tool and 3Dof Arm Model support for the Tracked
-    Pose Driver. The Tracked Pose Driver is a behavior that enables GameObjects to
-    track input devices, the XR Bindings Seeding Tool adds a menu item under the
-    'Assets' menu which populates the Input Asset with Unity's crossplatform Input
-    Bindings
-  status: 4
-  errors: []
-  versions:
-    all:
-    - 1.0.0
-    - 1.0.2
-    - 1.0.3
-    - 1.3.1
-    - 1.3.2
-    - 1.3.4
-    - 1.3.5
-    - 1.3.6
-    - 1.3.7
-    - 1.3.8
-    - 1.3.11
-    - 2.0.1
-    - 2.0.2
-    - 2.0.4
-    - 2.0.6
-    - 2.0.8
-    - 2.1.1
-    - 2.1.2
-    - 2.1.3
-    - 2.1.4
-    - 2.1.6
-    - 2.1.7
-    - 2.1.8
-    - 2.1.9
-    compatible:
-    - 2.1.9
-    verified: 2.1.9
-  dependencies:
-  - name: com.unity.modules.vr
-    version: 1.0.0
-  - name: com.unity.modules.xr
-    version: 1.0.0
-  resolvedDependencies:
-  - name: com.unity.modules.vr
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.modules.physics
-    version: 1.0.0
-  - name: com.unity.modules.xr
-    version: 1.0.0
-  - name: com.unity.modules.subsystems
-    version: 1.0.0
-  keywords:
-  - TPD
-  - Tracked Pose Driver
-  - XR
-  - Input
-  - Helpers
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-  hideInEditor: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 637812095140000000
-  documentationUrl: 
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/com.unity.xr.legacyinputhelpers.git
-    revision: 8e4581a11c14b64d41aabb67f51b0d8a0c75f5c4
-    path: 
-  unityLifecycle:
-    version: 2.1.9
-    nextVersion: 
-- packageId: com.unity.subsystemregistration@1.1.0
-  testable: 0
-  isDirectDependency: 0
-  version: 1.1.0
-  source: 1
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.subsystemregistration@1.1.0
-  assetPath: Packages/com.unity.subsystemregistration
-  name: com.unity.subsystemregistration
-  displayName: Subsystem Registration
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: 
-  description: Provides internal registration mechanism for standalone subsystems. 
-    It allows a standalone subsystem to inform the Subsystem Manager of its existence.
-  status: 4
-  errors: []
-  versions:
-    all:
-    - 1.0.0-preview.4
-    - 1.0.4
-    - 1.0.5
-    - 1.0.6
-    - 1.1.0
-    - 1.1.1
-    compatible:
-    - 1.1.0
-    - 1.1.1
-    verified: 1.1.1
-  dependencies:
-  - name: com.unity.modules.subsystems
-    version: 1.0.0
-  resolvedDependencies:
-  - name: com.unity.modules.subsystems
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  keywords:
-  - subsystem
-  - registration
-  - internal
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-  hideInEditor: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 637314426150000000
-  documentationUrl: 
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/com.unity.subsystemregistration.git
-    revision: 72584ba5248fbe79e560e795ad819f876954fceb
-    path: 
-  unityLifecycle:
-    version: 1.1.0
-    nextVersion: 
-- packageId: com.unity.xr.arsubsystems@4.2.3
-  testable: 0
-  isDirectDependency: 0
-  version: 4.2.3
-  source: 1
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.xr.arsubsystems@4.2.3
-  assetPath: Packages/com.unity.xr.arsubsystems
-  name: com.unity.xr.arsubsystems
-  displayName: AR Subsystems
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: 
-  description: Contains definitions for AR Subsystems. This package is a dependency
-    of provider packages, as well as AR Foundation.
-  status: 4
-  errors: []
-  versions:
-    all:
-    - 2.0.2
-    - 2.1.0-preview.1
-    - 2.1.0-preview.2
-    - 2.1.0
-    - 2.1.1
-    - 2.1.2
-    - 2.1.3
-    - 2.1.14
-    - 2.1.16
-    - 2.1.18
-    - 2.1.19
-    - 2.2.0-preview.2
-    - 2.2.0-preview.3
-    - 2.2.0-preview.6
-    - 3.0.0-preview.1
-    - 3.0.0-preview.2
-    - 3.0.0-preview.3
-    - 3.0.0-preview.4
-    - 3.0.0
-    - 3.0.2
-    - 3.1.0-preview.1
-    - 3.1.0-preview.2
-    - 3.1.0-preview.4
-    - 3.1.0-preview.6
-    - 3.1.0-preview.7
-    - 3.1.0-preview.8
-    - 3.1.3
-    - 3.1.5
-    - 3.1.6
-    - 3.1.10
-    - 4.0.0-preview.1
-    - 4.0.0-preview.3
-    - 4.0.1
-    - 4.0.8
-    - 4.0.9
-    - 4.0.10
-    - 4.0.12
-    - 4.1.0-preview.1
-    - 4.1.0-preview.2
-    - 4.1.0-preview.3
-    - 4.1.0-preview.5
-    - 4.1.0-preview.6
-    - 4.1.0-preview.7
-    - 4.1.0-preview.9
-    - 4.1.0-preview.10
-    - 4.1.0-preview.11
-    - 4.1.0-preview.12
-    - 4.1.0-preview.13
-    - 4.1.1
-    - 4.1.3
-    - 4.1.5
-    - 4.1.7
-    - 4.1.9
-    - 4.1.10
-    - 4.2.0-pre.2
-    - 4.2.0-pre.3
-    - 4.2.0-pre.4
-    - 4.2.0-pre.5
-    - 4.2.0-pre.7
-    - 4.2.0-pre.8
-    - 4.2.0-pre.9
-    - 4.2.0-pre.10
-    - 4.2.0-pre.12
-    - 4.2.0
-    - 4.2.1
-    - 4.2.2
-    - 4.2.3
-    - 5.0.0-pre.5
-    - 5.0.0-pre.6
-    - 5.0.0-pre.7
-    - 5.0.0-pre.8
-    - 5.0.0-pre.9
-    compatible:
-    - 4.2.2
-    - 4.2.3
-    - 5.0.0-pre.5
-    - 5.0.0-pre.6
-    - 5.0.0-pre.7
-    - 5.0.0-pre.8
-    - 5.0.0-pre.9
-    verified: 4.2.3
-  dependencies:
-  - name: com.unity.subsystemregistration
-    version: 1.1.0
-  - name: com.unity.xr.management
-    version: 4.0.1
-  resolvedDependencies:
-  - name: com.unity.subsystemregistration
-    version: 1.1.0
-  - name: com.unity.modules.subsystems
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.xr.management
-    version: 4.2.1
-  - name: com.unity.modules.vr
-    version: 1.0.0
-  - name: com.unity.modules.physics
-    version: 1.0.0
-  - name: com.unity.modules.xr
-    version: 1.0.0
-  - name: com.unity.xr.legacyinputhelpers
-    version: 2.1.9
-  keywords:
-  - subsystem
-  - XR
-  - AR
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-  hideInEditor: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 637871117090000000
-  documentationUrl: 
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/arfoundation.git
-    revision: 497981bbdfaf531fe240edcfa8f6edfd9aa1567e
-    path: 
-  unityLifecycle:
-    version: 4.2.2
-    nextVersion: 
 - packageId: com.unity.ext.nunit@1.0.6
   testable: 0
   isDirectDependency: 0
   version: 1.0.6
   source: 1
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.ext.nunit@1.0.6
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.ext.nunit@1.0.6
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -3529,16 +2372,9 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-    - 0.1.5-preview
-    - 0.1.6-preview
-    - 0.1.9-preview
-    - 1.0.0
-    - 1.0.5
     - 1.0.6
-    - 2.0.2
     compatible:
     - 1.0.6
-    - 2.0.2
     verified: 1.0.6
   dependencies: []
   resolvedDependencies: []
@@ -3555,7 +2391,7 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637429759280000000
+  datePublishedTicks: 0
   documentationUrl: 
   hasRepository: 1
   repository:
@@ -3566,12 +2402,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.6
     nextVersion: 
-- packageId: com.unity.mathematics@1.2.5
+- packageId: com.unity.mathematics@1.2.6
   testable: 0
   isDirectDependency: 0
-  version: 1.2.5
+  version: 1.2.6
   source: 1
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.mathematics@1.2.5
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.mathematics@1.2.6
   assetPath: Packages/com.unity.mathematics
   name: com.unity.mathematics
   displayName: Mathematics
@@ -3587,25 +2423,8 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-    - 0.0.12-preview.2
-    - 0.0.12-preview.5
-    - 0.0.12-preview.8
-    - 0.0.12-preview.10
-    - 0.0.12-preview.11
-    - 0.0.12-preview.13
-    - 0.0.12-preview.17
-    - 0.0.12-preview.19
-    - 0.0.12-preview.20
-    - 1.0.0-preview.1
-    - 1.0.1
-    - 1.1.0-preview.1
-    - 1.1.0
-    - 1.2.1
-    - 1.2.4
-    - 1.2.5
     - 1.2.6
     compatible:
-    - 1.2.5
     - 1.2.6
     verified: 1.2.6
   dependencies: []
@@ -3621,23 +2440,23 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637719892670000000
+  datePublishedTicks: 0
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.com/Unity-Technologies/Unity.Mathematics.git
-    revision: 53b0c4756c3c0dff3746285a8b83e858c26cdb06
+    revision: f110c8c230d253654afed153569030a587cc7557
     path: 
   unityLifecycle:
-    version: 1.2.5
+    version: 1.2.6
     nextVersion: 
 - packageId: com.unity.burst@1.6.5
   testable: 0
   isDirectDependency: 0
   version: 1.6.5
   source: 1
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.burst@1.6.5
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.burst@1.6.5
   assetPath: Packages/com.unity.burst
   name: com.unity.burst
   displayName: Burst
@@ -3653,130 +2472,16 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-    - 0.2.4-preview.5
-    - 0.2.4-preview.7
-    - 0.2.4-preview.11
-    - 0.2.4-preview.12
-    - 0.2.4-preview.13
-    - 0.2.4-preview.14
-    - 0.2.4-preview.15
-    - 0.2.4-preview.16
-    - 0.2.4-preview.17
-    - 0.2.4-preview.18
-    - 0.2.4-preview.19
-    - 0.2.4-preview.20
-    - 0.2.4-preview.21
-    - 0.2.4-preview.22
-    - 0.2.4-preview.23
-    - 0.2.4-preview.24
-    - 0.2.4-preview.25
-    - 0.2.4-preview.30
-    - 0.2.4-preview.31
-    - 0.2.4-preview.33
-    - 0.2.4-preview.34
-    - 0.2.4-preview.37
-    - 0.2.4-preview.41
-    - 0.2.4-preview.45
-    - 0.2.4-preview.48
-    - 0.2.4-preview.50
-    - 1.1.0-preview.2
-    - 1.1.0-preview.3
-    - 1.1.0-preview.4
-    - 1.1.1
-    - 1.1.2
-    - 1.1.3-preview.3
-    - 1.2.0-preview.1
-    - 1.2.0-preview.5
-    - 1.2.0-preview.6
-    - 1.2.0-preview.8
-    - 1.2.0-preview.9
-    - 1.2.0-preview.10
-    - 1.2.0-preview.11
-    - 1.2.0-preview.12
-    - 1.2.0
-    - 1.2.1
-    - 1.2.2
-    - 1.2.3
-    - 1.3.0-preview.1
-    - 1.3.0-preview.2
-    - 1.3.0-preview.3
-    - 1.3.0-preview.4
-    - 1.3.0-preview.5
-    - 1.3.0-preview.6
-    - 1.3.0-preview.7
-    - 1.3.0-preview.8
-    - 1.3.0-preview.9
-    - 1.3.0-preview.10
-    - 1.3.0-preview.11
-    - 1.3.0-preview.12
-    - 1.3.0-preview.13
-    - 1.3.0
-    - 1.3.1
-    - 1.3.2
-    - 1.3.3
-    - 1.3.4
-    - 1.3.5
-    - 1.3.6
-    - 1.3.7
-    - 1.3.8
-    - 1.3.9
-    - 1.4.0-pre.1
-    - 1.4.0-preview.1
-    - 1.4.0-preview.2
-    - 1.4.0-preview.3
-    - 1.4.0-preview.4
-    - 1.4.0-preview.5
-    - 1.4.1-pre.1
-    - 1.4.1-pre.2
-    - 1.4.1
-    - 1.4.2
-    - 1.4.3
-    - 1.4.4-preview.1
-    - 1.4.4-preview.2
-    - 1.4.4
-    - 1.4.5
-    - 1.4.6
-    - 1.4.7
-    - 1.4.8
-    - 1.4.9
-    - 1.4.11
-    - 1.5.0-pre.3
-    - 1.5.0-pre.4
-    - 1.5.0-pre.5
-    - 1.5.0
-    - 1.5.1
-    - 1.5.2
-    - 1.5.3
-    - 1.5.4
-    - 1.5.5
-    - 1.5.6-preview.1
-    - 1.5.6
-    - 1.6.0-pre.2
-    - 1.6.0-pre.3
-    - 1.6.0-pre.4
-    - 1.6.0
-    - 1.6.1
-    - 1.6.2
-    - 1.6.3
-    - 1.6.4
     - 1.6.5
-    - 1.7.0-pre.1
-    - 1.7.0
-    - 1.7.1
-    - 1.8.0-pre.1
     compatible:
     - 1.6.5
-    - 1.7.0-pre.1
-    - 1.7.0
-    - 1.7.1
-    - 1.8.0-pre.1
     verified: 1.6.5
   dependencies:
   - name: com.unity.mathematics
     version: 1.2.1
   resolvedDependencies:
   - name: com.unity.mathematics
-    version: 1.2.5
+    version: 1.2.6
   keywords: []
   registry:
     id: main
@@ -3787,7 +2492,7 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637835629630000000
+  datePublishedTicks: 0
   documentationUrl: 
   hasRepository: 1
   repository:
@@ -3803,7 +2508,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 12.1.6
   source: 2
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.render-pipelines.core@12.1.6
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.render-pipelines.core@12.1.6
   assetPath: Packages/com.unity.render-pipelines.core
   name: com.unity.render-pipelines.core
   displayName: Core RP Library
@@ -3824,102 +2529,6 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-    - 0.1.21
-    - 0.1.27
-    - 0.1.28
-    - 1.0.0-beta
-    - 1.0.1-beta
-    - 1.1.1-preview
-    - 1.1.2-preview
-    - 1.1.4-preview
-    - 1.1.5-preview
-    - 1.1.8-preview
-    - 1.1.10-preview
-    - 1.1.11-preview
-    - 2.0.1-preview
-    - 2.0.3-preview
-    - 2.0.4-preview
-    - 2.0.4-preview.1
-    - 2.0.5-preview
-    - 2.0.6-preview
-    - 2.0.7-preview
-    - 2.0.8-preview
-    - 3.0.0-preview
-    - 3.1.0-preview
-    - 3.3.0-preview
-    - 4.0.0-preview
-    - 4.0.1-preview
-    - 4.1.0-preview
-    - 4.2.0-preview
-    - 4.3.0-preview
-    - 4.6.0-preview
-    - 4.8.0-preview
-    - 4.9.0-preview
-    - 4.10.0-preview
-    - 5.0.0-preview
-    - 5.1.0
-    - 5.2.0
-    - 5.2.1
-    - 5.2.2
-    - 5.2.3
-    - 5.3.1
-    - 5.6.1
-    - 5.7.2
-    - 5.8.2
-    - 5.9.0
-    - 5.10.0
-    - 5.13.0
-    - 5.16.1
-    - 6.5.2
-    - 6.5.3
-    - 6.7.1
-    - 6.9.0
-    - 6.9.1
-    - 6.9.2
-    - 7.0.0
-    - 7.0.1
-    - 7.1.1
-    - 7.1.2
-    - 7.1.5
-    - 7.1.6
-    - 7.1.7
-    - 7.1.8
-    - 7.2.0
-    - 7.2.1
-    - 7.3.1
-    - 7.4.1
-    - 7.4.2
-    - 7.4.3
-    - 7.5.1
-    - 7.5.2
-    - 7.5.3
-    - 7.6.0
-    - 7.7.0
-    - 7.7.1
-    - 8.0.1
-    - 8.1.0
-    - 8.2.0
-    - 8.3.1
-    - 9.0.0-preview.13
-    - 9.0.0-preview.35
-    - 9.0.0-preview.38
-    - 9.0.0-preview.60
-    - 9.0.0-preview.77
-    - 10.0.0-preview.30
-    - 10.1.0
-    - 10.2.0
-    - 10.2.1
-    - 10.2.2
-    - 10.3.1
-    - 10.3.2
-    - 10.4.0
-    - 10.5.0
-    - 10.5.1
-    - 10.6.0
-    - 10.7.0
-    - 10.8.0
-    - 10.8.1
-    - 10.9.0
     - 12.1.6
     compatible:
     - 12.1.6
@@ -3968,7 +2577,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 12.1.6
   source: 2
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.shadergraph@12.1.6
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.shadergraph@12.1.6
   assetPath: Packages/com.unity.shadergraph
   name: com.unity.shadergraph
   displayName: Shader Graph
@@ -3987,101 +2596,6 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-    - 0.1.8
-    - 0.1.9
-    - 0.1.17
-    - 1.0.0-beta
-    - 1.1.1-preview
-    - 1.1.2-preview
-    - 1.1.3-preview
-    - 1.1.4-preview
-    - 1.1.5-preview
-    - 1.1.6-preview
-    - 1.1.8-preview
-    - 1.1.9-preview
-    - 2.0.1-preview
-    - 2.0.3-preview
-    - 2.0.4-preview
-    - 2.0.4-preview.1
-    - 2.0.5-preview
-    - 2.0.6-preview
-    - 2.0.7-preview
-    - 2.0.8-preview
-    - 3.0.0-preview
-    - 3.1.0-preview
-    - 3.3.0-preview
-    - 4.0.0-preview
-    - 4.0.1-preview
-    - 4.1.0-preview
-    - 4.2.0-preview
-    - 4.3.0-preview
-    - 4.6.0-preview
-    - 4.8.0-preview
-    - 4.9.0-preview
-    - 4.10.0-preview
-    - 5.0.0-preview
-    - 5.1.0
-    - 5.2.0
-    - 5.2.1
-    - 5.2.2
-    - 5.2.3
-    - 5.3.1
-    - 5.6.1
-    - 5.7.2
-    - 5.8.2
-    - 5.9.0
-    - 5.10.0
-    - 5.13.0
-    - 5.16.1
-    - 6.5.2
-    - 6.5.3
-    - 6.7.1
-    - 6.9.0
-    - 6.9.1
-    - 6.9.2
-    - 7.0.0
-    - 7.0.1
-    - 7.1.1
-    - 7.1.2
-    - 7.1.5
-    - 7.1.6
-    - 7.1.7
-    - 7.1.8
-    - 7.2.0
-    - 7.2.1
-    - 7.3.1
-    - 7.4.1
-    - 7.4.2
-    - 7.4.3
-    - 7.5.1
-    - 7.5.2
-    - 7.5.3
-    - 7.6.0
-    - 7.7.0
-    - 7.7.1
-    - 8.0.1
-    - 8.1.0
-    - 8.2.0
-    - 8.3.1
-    - 9.0.0-preview.14
-    - 9.0.0-preview.34
-    - 9.0.0-preview.55
-    - 9.0.0-preview.72
-    - 10.0.0-preview.27
-    - 10.1.0
-    - 10.2.0
-    - 10.2.1
-    - 10.2.2
-    - 10.3.1
-    - 10.3.2
-    - 10.4.0
-    - 10.5.0
-    - 10.5.1
-    - 10.6.0
-    - 10.7.0
-    - 10.8.0
-    - 10.8.1
-    - 10.9.0
     - 12.1.6
     compatible:
     - 12.1.6
@@ -4127,12 +2641,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 12.1.6
     nextVersion: 
-- packageId: com.unity.services.core@1.0.1
+- packageId: com.unity.services.core@1.3.1
   testable: 0
   isDirectDependency: 0
-  version: 1.0.1
+  version: 1.3.1
   source: 1
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.services.core@1.0.1
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.services.core@1.3.1
   assetPath: Packages/com.unity.services.core
   name: com.unity.services.core
   displayName: Services Core
@@ -4146,42 +2660,28 @@ m_ResolvedPackages:
     packages.
 
     These are standardized and aim to unify the overall experience
-    of working with Game Services packages.'
+    of working with Game Services SDK.'
   status: 4
   errors: []
   versions:
     all:
-    - 1.0.1
-    - 1.1.0-pre.7
-    - 1.1.0-pre.8
-    - 1.1.0-pre.9
-    - 1.1.0-pre.10
-    - 1.1.0-pre.11
-    - 1.1.0-pre.41
-    - 1.1.0-pre.69
-    - 1.2.0
     - 1.3.1
-    - 1.3.2
-    - 1.4.0
     compatible:
-    - 1.0.1
-    - 1.1.0-pre.7
-    - 1.1.0-pre.8
-    - 1.1.0-pre.9
-    - 1.1.0-pre.10
-    - 1.1.0-pre.11
-    - 1.1.0-pre.41
-    - 1.1.0-pre.69
-    - 1.2.0
     - 1.3.1
-    - 1.3.2
-    - 1.4.0
-    verified: 1.0.1
+    verified: 1.3.1
   dependencies:
   - name: com.unity.modules.unitywebrequest
     version: 1.0.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.0.2
+  - name: com.unity.modules.androidjni
+    version: 1.0.0
   resolvedDependencies:
   - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.0.2
+  - name: com.unity.modules.androidjni
     version: 1.0.0
   keywords: []
   registry:
@@ -4193,23 +2693,23 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637604883250000000
+  datePublishedTicks: 0
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
-    revision: 4cd880d4fd5c60597629249bf4f324e4c8d7aa2e
+    revision: a1cf55a5ba0e2555d508263fa48837ff56c4654a
     path: 
   unityLifecycle:
-    version: 1.0.1
-    nextVersion: 1.1.0-pre.8
+    version: 1.3.1
+    nextVersion: 
 - packageId: com.unity.searcher@4.9.1
   testable: 0
   isDirectDependency: 0
   version: 4.9.1
   source: 1
-  resolvedPath: C:\Users\rique\Desktop\solar_System_Unity\Solar_System\Library\PackageCache\com.unity.searcher@4.9.1
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.searcher@4.9.1
   assetPath: Packages/com.unity.searcher
   name: com.unity.searcher
   displayName: Searcher
@@ -4225,26 +2725,10 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
-    - 4.0.0-preview
-    - 4.0.0
-    - 4.0.7-preview
-    - 4.0.7
-    - 4.0.8-preview
-    - 4.0.9
-    - 4.1.0-preview
-    - 4.1.0
-    - 4.2.0
-    - 4.3.0
-    - 4.3.1
-    - 4.3.2
-    - 4.6.0-preview
-    - 4.7.0-preview
     - 4.9.1
-    - 4.9.2
     compatible:
     - 4.9.1
-    - 4.9.2
-    verified: 4.9.2
+    verified: 4.9.1
   dependencies: []
   resolvedDependencies: []
   keywords:
@@ -4259,7 +2743,7 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637695653650000000
+  datePublishedTicks: 0
   documentationUrl: 
   hasRepository: 1
   repository:
@@ -4269,4 +2753,60 @@ m_ResolvedPackages:
     path: 
   unityLifecycle:
     version: 4.9.1
+    nextVersion: 
+- packageId: com.unity.nuget.newtonsoft-json@3.0.2
+  testable: 0
+  isDirectDependency: 0
+  version: 3.0.2
+  source: 1
+  resolvedPath: C:\Users\rique\OneDrive\Ambiente de Trabalho\solar_System_Unity-e8d1c5843fb6684baf24d022ae582ce3ed974f29\Solar_System\Library\PackageCache\com.unity.nuget.newtonsoft-json@3.0.2
+  assetPath: Packages/com.unity.nuget.newtonsoft-json
+  name: com.unity.nuget.newtonsoft-json
+  displayName: Newtonsoft Json
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: library
+  description: 'Newtonsoft Json for use in Unity projects and Unity packages. Currently
+    synced to version 13.0.1.
+
+
+    This package is used for advanced json serialization
+    and deserialization. Most Unity users will be better suited using the existing
+    json tools built into Unity.
+
+    To avoid assembly clashes, please use this
+    package if you intend to use Newtonsoft Json.'
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 3.0.2
+    compatible:
+    - 3.0.2
+    verified: 3.0.2
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.nuget.newtonsoft-json.git
+    revision: 8f66870a71ad3f2cdd46330b5c482dfd138ffc64
+    path: 
+  unityLifecycle:
+    version: 3.0.2
     nextVersion: 
