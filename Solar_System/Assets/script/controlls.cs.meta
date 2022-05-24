@@ -3,7 +3,18 @@ guid: ebe2201ca7662ad4d89bc04acb0a6e1d
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - controls: {instanceID: 0}
+  - target0: {fileID: 1457042789692064274, guid: a210155581cf1c041913fae36e108abe, type: 3}
+  - target1: {fileID: 6340501534481012457, guid: a8b029a5a3b35f34bbdb7840dd14fa84, type: 3}
+  - target2: {fileID: 3831306909059759781, guid: 6541b7a08da74b540848526fad59c085, type: 3}
+  - target3: {fileID: 7738841083346873120, guid: 999cd396aaa5c7944a3253099e1831b6, type: 3}
+  - target4: {fileID: 3326104798732619874, guid: a811b85f2bf64694a8a2dc2f0914efa0, type: 3}
+  - target5: {fileID: 5870190483692443028, guid: 5ff117f68efb80242b063638955ade84, type: 3}
+  - target6: {fileID: 4818296136735457776, guid: 6b53795401beffa49a09363df355b8a2, type: 3}
+  - target7: {fileID: 5626593590681869829, guid: 28b93cbce8a7eb0468ba6ceaa0cffc09, type: 3}
+  - target8: {fileID: 9087283702776036851, guid: 58ec17ba764fb004788e9e797b6eb104, type: 3}
+  - target9: {fileID: 5626593590681869829, guid: 28b93cbce8a7eb0468ba6ceaa0cffc09, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
