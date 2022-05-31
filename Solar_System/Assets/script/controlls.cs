@@ -5,9 +5,10 @@ using UnityEngine;
 public class controlls : MonoBehaviour
 {
     public CharacterController controls;
+    GameObject[] celestials;
     public float speed = 10f;
     public int[] numbers;
-    public Transform target0,target1,target2,target3,target4,target5,target6,target7,target8,target9;
+
 
     // Update is called once per frame
     void Start()
@@ -16,16 +17,20 @@ public class controlls : MonoBehaviour
         while(i < 10){
             numbers[i] = 0;
             i++;
-        }    
+        }   
     }
 
     void Update()
     {
-        int i = 0;
+        int update = 0,i = 0;
         float x = Input.GetAxis("Horizontal");
         float z = Input.GetAxis("Vertical");
         float y = Input.GetAxis("Jump");
         Vector3 move = transform.right * x + transform.forward * z + transform.up * y;
+        if(update == 0){
+            update++;
+            celestials = GameObject.FindGameObjectsWithTag("Celestial");
+        }
         if(Input.GetKeyDown(KeyCode.F1))
         {
             i = 0;
@@ -123,35 +128,35 @@ public class controlls : MonoBehaviour
                 numbers[i] = 0;
                 i++;
             }
-            transform.position = new Vector3(0,0,1000f);
+
         }
         
-        if(numbers[0] > 0) transform.LookAt(target0);
-        if(numbers[1] > 0) transform.LookAt(target1);
-        if(numbers[2] > 0) transform.LookAt(target2);
-        if(numbers[3] > 0) transform.LookAt(target3);
-        if(numbers[4] > 0) transform.LookAt(target4);
-        if(numbers[5] > 0) transform.LookAt(target5);
-        if(numbers[6] > 0) transform.LookAt(target6);
-        if(numbers[7] > 0) transform.LookAt(target7);
-        if(numbers[8] > 0) transform.LookAt(target8);
-        if(numbers[9] > 0) transform.LookAt(target9);
-        if(numbers[0] > 1) {
-            transform.position = Vector3.Lerp(transform.position, target0.position, 10f * Time.deltaTime);
-            transform.rotation = Quaternion.Slerp(transform.rotation, target0.rotation, 10f * Time.deltaTime);
+        if(numbers[0] == 1) transform.LookAt(celestials[0].transform);
+        if(numbers[1] > 0) transform.LookAt(celestials[1].transform);
+        if(numbers[2] > 0) transform.LookAt(celestials[2].transform);
+        if(numbers[3] > 0) transform.LookAt(celestials[3].transform);
+        if(numbers[4] > 0) transform.LookAt(celestials[4].transform);
+        if(numbers[5] > 0) transform.LookAt(celestials[5].transform);
+        if(numbers[6] > 0) transform.LookAt(celestials[6].transform);
+        if(numbers[7] > 0) transform.LookAt(celestials[7].transform);
+        if(numbers[8] > 0) transform.LookAt(celestials[8].transform);
+        if(numbers[9] > 0) transform.LookAt(celestials[9].transform);
+
+        if(numbers[0] > 1){
+            transform.position = celestials[0].transform.position + new Vector3(0,900,0);
+
         }
-        if(numbers[1] > 1) {
-            transform.position = Vector3.Lerp(transform.position, target1.position, 100f * Time.deltaTime);
-            transform.rotation = Quaternion.Slerp(transform.rotation, target1.rotation, 100f * Time.deltaTime);
-        }
-        if(numbers[2] > 1) transform.LookAt(target2);
-        if(numbers[3] > 1) transform.LookAt(target3);
-        if(numbers[4] > 1) transform.LookAt(target4);
-        if(numbers[5] > 1) transform.LookAt(target5);
-        if(numbers[6] > 1) transform.LookAt(target6);
-        if(numbers[7] > 1) transform.LookAt(target7);
-        if(numbers[8] > 1) transform.LookAt(target8);
-        if(numbers[9] > 1) transform.LookAt(target9);
+        if(numbers[1] > 1) transform.LookAt(celestials[1].transform);
+        if(numbers[2] > 1) transform.LookAt(celestials[2].transform);
+        if(numbers[3] > 1) transform.LookAt(celestials[3].transform);
+        if(numbers[4] > 1) transform.LookAt(celestials[4].transform);
+        if(numbers[5] > 1) transform.LookAt(celestials[5].transform);
+        if(numbers[6] > 1) transform.LookAt(celestials[6].transform);
+        if(numbers[7] > 1) transform.LookAt(celestials[7].transform);
+        if(numbers[8] > 1) transform.LookAt(celestials[8].transform);
+        if(numbers[9] > 1) transform.LookAt(celestials[9].transform);
+
+
 
 
 
@@ -160,4 +165,3 @@ public class controlls : MonoBehaviour
     }
 
 }
-
